@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+    <assemblyIdentity type="win32" name="Autodesk.NastranInCAD.ConnectionCom" version="2016.0.0.23"/>
+
+    <file name="ConnectionCom.dll" hashalg="SHA1">
+<typelib tlbid="{55EFC385-B582-4cbb-A47D-D391F821614F}" version="2.0" helpdir=""/>
+    <comClass description="MyCOMType " clsid="{072EC9AA-CDF4-421c-AA02-B9375F32261A}" threadingModel="Apartment" progid="ConnectionCom.NETree2.1" tlbid="{55EFC385-B582-4cbb-A47D-D391F821614F}"/>
+    </file>
+</assembly>
