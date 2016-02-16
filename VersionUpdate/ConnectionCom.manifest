@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
 
-    <assemblyIdentity type="win32" name="Autodesk.NastranInCAD.ConnectionCom" version="2016.0.0.27"/>
+    <assemblyIdentity type="win32" name="Autodesk.NastranInCAD.ConnectionCom" version="2016.0.0.29"/>
 
     <file name="ConnectionCom.dll" hashalg="SHA1">
 <typelib tlbid="{55EFC385-B582-4cbb-A47D-D391F821614F}" version="2.0" helpdir=""/>
