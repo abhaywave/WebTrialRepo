@@ -1,1 +1,20 @@
-test test***
+// test test***
+// The following is not actual COM.
+
+// Pseudo-C++:
+
+interface IDrawable
+{
+    void Draw();
+};
+class Shape : public IDrawable
+{
+public:
+    virtual void Draw();	// Override Draw and provide implementation.
+};
+
+class Bitmap : public IDrawable
+{
+public:
+    virtual void Draw();	// Override Draw and provide implementation.
+};
