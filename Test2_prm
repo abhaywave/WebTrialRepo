@@ -1,0 +1,19 @@
+// An interface for serialization.
+class ISerializable
+{
+public:
+    virtual void Load(PCWSTR filename) = 0;    // Load from file.
+    virtual void Save(PCWSTR filename) = 0;    // Save to file.
+};
+
+// Declarations of drawable object types.
+
+class Shape : public IDrawable
+{
+    ...
+};
+
+class Bitmap : public IDrawable, public ISerializable
+{
+    ...
+};
