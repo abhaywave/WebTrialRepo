@@ -26,4 +26,8 @@ if(same block)
 {
 First out
 }
+<<<<<<< HEAD
 //automation
+=======
+//first out
+>>>>>>> origin/First-Out-Branch-1
