@@ -8,13 +8,11 @@ if(1)
 //Modified if
 //Modified for FirstOutBranch
 //Modified for FirstOutBranch2
-//Modified for FirstOutBranch3
 }
 else if (1)
 {
 //else if block
-//Modified for Automation.
-//Modified for Automation.2
+//else if block1
 }
 else
 {
@@ -27,8 +25,4 @@ if(same block)
 {
 First out
 }
-<<<<<<< HEAD
-//automation
-=======
 //first out
->>>>>>> origin/First-Out-Branch-1
